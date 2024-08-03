@@ -1,2 +1,2 @@
 # workerpad
-malware notepad's for you testing in victims.
+a simple malware notepad. :)
